@@ -1,0 +1,7 @@
+{
+    "data_sources": {
+        "api": {
+            "Football": "http://api.football-data.org/v2/"
+        }
+    }
+}
